@@ -15,6 +15,6 @@ Multifactor authentication (MFA) is not used.
 If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
 
 In this activity, you will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.</p>
-- [Analysis of network hardening](https://docs.google.com/document/d/1Fz5BMu7IfkGpL7XWaM_b-AUnMM0o_6PLH9oy8Im_14A/edit?usp=sharing)
+- [Analysis of network hardening](https://drive.google.com/file/d/1uJ8i2f_xsoYwYolSl9u3pcReZCMPYZr3/view?usp=sharing)
 
   
